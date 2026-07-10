@@ -13,7 +13,7 @@ route-optimization-visualizer/
 `-- README.md
 ```
 
-## Goal
+##  Goal
 
 Build a polished portfolio-ready web app that visualizes graph traversal and shortest-path algorithms with clean controls, useful metrics, and smooth animation.
 
